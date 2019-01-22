@@ -2,7 +2,6 @@
 #include<stdlib.h>
 using namespace std;
 
-#define END_VALUE -1 // the end element in an int array
 #define MAX_SIZE 10	// the length of the array
 
 // sequential struct
