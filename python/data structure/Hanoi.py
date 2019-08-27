@@ -24,6 +24,7 @@ def Hanoi(scale, start, transfer, end):
     else:
         # only focus how to move the n-1 plate to the middle rod,
         # using end rod as a transfer station4
+        # ** break up: Hanoi(n-2,start,transfer,end) 1~n-2 -> end
         Hanoi(scale-1, start, end, transfer)
         # move the n plate to the destination
         move(scale, start, end)
