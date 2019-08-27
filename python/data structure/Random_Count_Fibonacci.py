@@ -30,7 +30,7 @@ def to_binary(decimal, scale=2):
     dividor = scale
 
     while quotient != 0:
-        quotient = int(divident / dividor)
+        quotient = divident // dividor
         result.append(divident % dividor)
         divident = quotient
 
@@ -45,3 +45,4 @@ def to_binary(decimal, scale=2):
 # fibonacci(5)
 # print(r.sample(range(1, 34), 5))
 print(to_binary(379))
+print(10 // 4)
