@@ -1,8 +1,8 @@
 """
-    Use queue structure to print coefficients of the (a+b)**n (n>0) (Yanghui triangle)
+    Use queue structure to print coefficients of all the (a+b)**n (n>0) (Yanghui tri)
 
     Params:
-    - n: int. the exponent of (a+b)**n
+    - n: the exponent of (a+b)**n
 """
 def yanghui(n: int) -> None:
     # initial the first row
@@ -28,9 +28,6 @@ def yanghui(n: int) -> None:
 
         # end of the row
         print()
-
-    # extra row that has been calculated but not been printed
-    print(q)
 
 
 n = int(input('Please input n: '))
