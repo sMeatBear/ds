@@ -1,0 +1,108 @@
+[33mcommit f8350226fbb4b978fb8fb438614d319a0eefbf3d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 4be5716 130f96a
+Author: Jeffrey Cao <fcandroidme@gmail.com>
+Date:   Thu Aug 29 16:55:18 2019 -0700
+
+    conflict solved
+
+[33mcommit 130f96a06659c07234fa7f7dc668a775da44ca00[m
+Author: Jeffrey Cao <fcandroidme@gmail.com>
+Date:   Thu Aug 29 16:44:29 2019 -0700
+
+    ds/ds push
+
+[33mcommit 4be5716d1e9df82ba8fcacb46e0cabd603769f71[m
+Author: Jeffrey Cao <fcandroidme@gmail.com>
+Date:   Thu Aug 29 16:44:01 2019 -0700
+
+    test/ds push
+
+[33mcommit 379faa99b301328341d99d3f663cc42141778ef7[m
+Author: Jeffrey Cao <fcandroidme@gmail.com>
+Date:   Thu Aug 29 16:30:47 2019 -0700
+
+    Collision test
+
+[33mcommit 8ea4c0d8ca2558750b7f3b8d1b7332b10181e997[m
+Author: sMeatBear <fcandroidme@gmail.com>
+Date:   Thu Aug 29 15:57:04 2019 -0700
+
+    Update .gitignore
+
+[33mcommit 814554527051d01b88af6310a7fce22ac6ad9d49[m
+Author: sMeatBear <fcandroidme@gmail.com>
+Date:   Thu Aug 29 15:56:31 2019 -0700
+
+    Update .gitignore
+
+[33mcommit 167ea37db9ad9a998ec7c9f0931b1a3391c93751[m
+Author: sMeatBear <fcandroidme@gmail.com>
+Date:   Thu Aug 29 15:55:35 2019 -0700
+
+    Establish ingoring standard
+
+[33mcommit 1c1ba345444975c6fd1d7e3d69678d4d54dee400[m
+Author: sMeatBear <fcandroidme@gmail.com>
+Date:   Thu Aug 29 13:02:42 2019 -0700
+
+    stuff in a mess
+
+[33mcommit 9450f635659beb57c927a396dbbcd1a4a5e23f23[m
+Author: sMeatBear <fcandroidme@gmail.com>
+Date:   Tue Aug 27 12:13:26 2019 -0700
+
+    Revert "Revert "Update Random and yanghui""
+    
+    This reverts commit e2fc2d56cae81ddb3e7f69a6c7151a0dad6cec36.
+
+[33mcommit e2fc2d56cae81ddb3e7f69a6c7151a0dad6cec36[m
+Author: sMeatBear <fcandroidme@gmail.com>
+Date:   Tue Aug 27 12:13:05 2019 -0700
+
+    Revert "Update Random and yanghui"
+    
+    This reverts commit 637c4b0604f21cadce8a9d15ad8cc01bcd486d61.
+
+[33mcommit 637c4b0604f21cadce8a9d15ad8cc01bcd486d61[m
+Author: sMeatBear <fcandroidme@gmail.com>
+Date:   Tue Aug 27 12:03:04 2019 -0700
+
+    Update Random and yanghui
+
+[33mcommit 3dd3536baa9622068b46824e7c709b66e7705934[m
+Author: sMeatBear <fcandroidme@gmail.com>
+Date:   Tue Aug 27 01:46:29 2019 -0700
+
+    Create Yanghui.py
+
+[33mcommit 0c3945c4ca262f03a0b388519ade4e3cae9d74d2[m
+Author: sMeatBear <fcandroidme@gmail.com>
+Date:   Mon Aug 26 22:14:45 2019 -0700
+
+    Update Hanoi.py
+
+[33mcommit 9d62343b0dc8dc958d97ecb48bdaff0dd49f26a1[m
+Author: sMeatBear <fcandroidme@gmail.com>
+Date:   Mon Aug 26 21:53:49 2019 -0700
+
+    Create Hanoi.py
+
+[33mcommit 43da10de301d15b2957934f07425f1d94b6c3084[m
+Author: sMeatBear <fcandroidme@gmail.com>
+Date:   Mon Aug 26 01:05:47 2019 -0700
+
+    Create Random_Count_Fibonacci.py
+
+[33mcommit 3f3e03c75770faa7eeca5d63054508fe4f832c7d[m
+Author: sMeatBear <fcandroidme@gmail.com>
+Date:   Mon Jan 21 23:15:28 2019 -0800
+
+    Second
+    
+    remove useless # define
+
+[33mcommit b8b63b2fa66961284a4282d63d61edcb94b8a443[m
+Author: sMeatBear <fcandroidme@gmail.com>
+Date:   Mon Jan 21 23:06:09 2019 -0800
+
+    Initial commit
