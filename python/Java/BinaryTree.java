@@ -56,6 +56,7 @@ public class BinaryTree {
         String data = sc.nextLine();
         // System.out.println(data);
         
+        // when 
         if(data.equals("#")) {
             biNode = null;
         } else {
