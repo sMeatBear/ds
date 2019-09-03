@@ -1,3 +1,5 @@
+import java.util.Calendar;
+import java.util.Date;
 import java.util.Scanner;
 
 class BiNode {
@@ -44,7 +46,7 @@ public class BinaryTree {
     private BiNode root;
 
     /**
-     * first order traverse the tree
+     * pre order traverse to build the tree
      * @param biTree An empty biTree
      * 
      */
@@ -91,7 +93,12 @@ public class BinaryTree {
         BinaryTree.createBiTree(biTree.getRoot());
         // in order outputa
         System.out.println("in order traverse:");
+
+        // compute the run time
+        long startTime = new Date().getTime();
         biTree.inOrderTraverse(biTree.getRoot());
+        long endTime = new Date().getTime();
+        System.out.println("Start time: " + startTime + "\n End time: " + endTime + "\nthe run time is : " + (endTime - startTime));
     }
 
     public BiNode getRoot() {
